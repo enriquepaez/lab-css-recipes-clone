@@ -22,11 +22,12 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
-header h1 {
+#apple-pie h1, #french-soup h1 {
   padding: 225px 0 225px 0;
   color: white;
   text-align: center;
-  font-size: 60px;
+  font-size: 80px;
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
